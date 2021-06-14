@@ -47,6 +47,7 @@
       "last 1 safari version"
     ]
   },
+  "proxy": "https://warm-taiga-93311.herokuapp.com/",
   "devDependencies": {
     "prettier": "2.3.0"
   }
