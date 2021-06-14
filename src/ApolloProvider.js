@@ -8,7 +8,7 @@ import { setContext } from 'apollo-link-context';
 
 // linking with the graph-ql server
 const httpLink = createHttpLink({
-  uri: 'https://warm-taiga-93311.herokuapp.com/',
+  uri: "https://warm-taiga-93311.herokuapp.com/",
 });
 
 // add's user authorization token to the req
